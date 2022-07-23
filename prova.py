@@ -76,7 +76,7 @@ def addItem(produto, quantidade):
             if continuar == "n":
                 carrinho()
             else:
-                produto = input("Digite o produto desejado: ")
+                produto = input("Digite o produto desejado: ").lower()
                 quantidade = int(input("Digite a quantidade desejada: "))
         else:
             print("Item não existente no estoque, reiniciando.")
