@@ -14,10 +14,15 @@ estoque = [9, 10, 13, 4, 23, 6, 15, 8, 40, 34, 20, 12, 21, 5, 3, 7]
 
 REQUISITOS
 1 – O programa deve permitir que o usuário faça uma compra com base nos produtos disponíveis na lista produtos e suas respectivas quantidades na lista estoque.
+ 
 2 – O programa deve analisar o produto selecionado registrar a quantidade de itens que o cliente solicitou e ATUALIZAR o valor do estoque para compras futuras.
+
 3 – O programa deve permitir que o usuário adicione itens até que o mesmo informe , através de um critério de parada de sua escolha, que não deseja mais adicionar itens.
+
 4 – Após finalizada a coleta dos itens, o programa deve imprimir produto – quantidade – preço unidade e preço total para cada item e pedir que o usuário confirme o pedido.
+
 5 – Após confirmado o pedido, o programa deve exibir o valor total e perguntar se o pagamento será em dinheiro ou cartão. Caso seja dinheiro, deve aplicar um desconto de 10%.
+
 6 – Caso seja em dinheiro, o programa deve receber o valor pago e retornar o troco, informando o valor e a quantidade de notas de 1, 5, 10, 20, 50 ou 100 o caixa deve passar, caso necessário.
 
 # by Antonio David Almeida Soares. ✌
